@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+<!-- # Welcome to MkDocs
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
@@ -14,4 +14,22 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     mkdocs.yml    # The configuration file.
     docs/
         index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+        ...       # Other markdown pages, images and other files. -->
+
+# Статический сайт на MkDocs
+
+Данный сайт создан в рамках курса  
+**«Проектирование и развертывание веб-решений в экосистеме Python»**.
+
+## Используемые технологии
+
+- Python
+- MkDocs
+- GitHub Actions
+- GitHub Pages
+
+## Описание
+
+Сайт является примером статического веб-приложения,
+автоматически собираемого и публикуемого с использованием CI/CD.
+
