@@ -1,2 +1,7 @@
 site_name: Мой Статический Сайт
 theme: readthedocs
+
+nav:
+  - Home: index.md
+  - Используемые технологии: technologies.md
+  - Описание: description.md
